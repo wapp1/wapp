@@ -21,7 +21,7 @@
 <div align="center">
   <h2>👾 Join the Community!</h2>
   <h3><i>Stay up to date with the latest updates, request new features, and report bugs.</i></h3>
-  <a href="https://discord.gg/4GwwDqDB">
+  <a href="https://discord.gg/KN9NRmeqVa">
     <img src="https://widget.wappbussines.workers.dev/discord" width="650" alt="Join Wapp Discord">
   </a>
 </div>
