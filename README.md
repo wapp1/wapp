@@ -50,8 +50,8 @@ Built-in support for English and Spanish, with seamless switching between Sub an
 ### 📝 **Subtitles (Hard & Soft)**
 Full support for both hardcoded and soft subtitles. Soft subs are fully customizable and editable on the fly through the built-in subtitle editor.
 
-### 🔄 **Bidirectional AniList Sync**
-Link your account for seamless, two-way syncing. Your progress is saved automatically in real-time. Changes made in Wapp reflect instantly on AniList, and vice versa.
+### 🔄 **Bidirectional MAL/AniList Sync**
+Link your accounts for seamless, two-way syncing. Your progress is saved automatically in real-time. Changes made in Wapp reflect instantly on MAL/AniList.
 
 ### 📥 **Downloads**
 Download your favorite episodes directly to your device for offline viewing.
