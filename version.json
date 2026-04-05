@@ -1,6 +1,6 @@
 {
-  "version_code": 18,
-  "version_name": "1.7.1",
-  "url": "https://github.com/wapp1/wapp/releases/download/v1.7.1/app-release.apk",
-  "changelog": "New Features & Fixes"
+  "version_code": 19,
+  "version_name": "1.7.2",
+  "url": "https://github.com/wapp1/wapp/releases/download/v1.7.2/app-release.apk",
+  "changelog": "**_Bug Fixes & Improvements_**\n\n- Optimized linking for MyAnimeList and AniList. Pushed optimizations to the maximum to properly support and load accounts with massive anime lists.\n- Fixed playback errors affecting the Spanish section.\n- Fixed various minor bugs and improved overall app stability."
 }
