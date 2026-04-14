@@ -1,6 +1,6 @@
 {
-  "version_code": 19,
-  "version_name": "1.7.2",
-  "url": "https://github.com/wapp1/wapp/releases/download/v1.7.2/app-release.apk",
-  "changelog": "**_Bug Fixes & Improvements_**\n\n- Optimized linking for MyAnimeList and AniList. Pushed optimizations to the maximum to properly support and load accounts with massive anime lists.\n- Fixed playback errors affecting the Spanish section.\n- Fixed various minor bugs and improved overall app stability."
+  "version_code": 20,
+  "version_name": "1.7.3",
+  "url": "https://github.com/wapp1/wapp/releases/download/v1.7.3/app-release.apk",
+  "changelog": "**_New Features & Additions_**\n\n- Added episode synopsis and thumbnails.\n- Added Auto-Skip Intro/Outro and Smart Skip button.\n- Added a startup ad (support prompt) to help maintain server costs.\n- TV: Added episode filter (batches of 100) and filler episode indicators.\n\n**_Bug Fixes & Improvements_**\n\n- Fixed various minor bugs.\n- Note: This is a mandatory update to keep using the app."
 }
