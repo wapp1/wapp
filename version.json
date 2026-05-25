@@ -1,6 +1,6 @@
 {
-  "version_code": 21,
-  "version_name": "1.7.4",
-  "url": "https://github.com/wapp1/wapp/releases/download/v1.7.4/app-release.apk",
-  "changelog": "**_Sources & Adjustments_**\n\n- Added English 3 (Soft/Hard/Dub).\n- Disabled English 1.\n- New Spanish source with better TV compatibility.\n\n**_New Features_**\n\n- Added New Episode Notifications (Relink MAL/Anilist to activate).\n- Persistent playback speed across episodes.\n\n**_Note_**\n\n- Fixed minor bugs. Mandatory update for stability."
+  "version_code": 22,
+  "version_name": "1.7.5",
+  "url": "https://github.com/wapp1/wapp/releases/download/v1.7.5/app-release.apk",
+  "changelog": "Manga & Improvements\n- Added Manga support with offline downloads (English only)\n- Added English 1 source (Hardsubs)\n- Optimized download engine (up to 5x faster)\n\nAndroid TV Upgrades\n- Added AniList/MAL account syncing via QR code\n- New UI redesign and improved remote navigation\n- Added 3 new content sections to home screen\n\nFixes & Adjustments\n- Fixed Continue Watching loop and audio dub options\n- Fixed AniList/MAL syncing errors and TV crashes\n- Manage anime status directly inside the app"
 }
