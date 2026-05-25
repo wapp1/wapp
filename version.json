@@ -1,6 +1,6 @@
 {
-  "version_code": 22,
-  "version_name": "1.7.5",
-  "url": "https://github.com/wapp1/wapp/releases/download/v1.7.5/app-release.apk",
-  "changelog": "Manga & Improvements\n- Added Manga support with offline downloads\n- Added English 1 & optimized downloads (5x faster)\n\nAndroid TV Upgrades\n- Added AniList/MAL syncing via QR code\n- UI redesign, new sections & better navigation\n\nFixes & Adjustments\n- Fixed Continue Watching loop & audio dub options\n- Fixed AniList/MAL syncing errors & TV crashes"
+  "version_code": 23,
+  "version_name": "1.7.6",
+  "url": "Wapp_v1.7.6",
+  "changelog": "Few Bug Fixes"
 }
