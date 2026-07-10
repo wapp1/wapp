@@ -1,6 +1,6 @@
 {
-  "version_code": 25,
-  "version_name": "1.7.8",
-  "url": "https://github.com/wapp1/wapp/releases/download/v1.7.8/app-release.apk",
-  "changelog": ""
+  "version_code": 26,
+  "version_name": "1.7.9",
+  "url": "https://github.com/wapp1/wapp/releases/download/v1.7.9/app-release.apk",
+  "changelog": "What's new:\n- Active servers: English 1, 2, 3\n- Improved download speed and fixed errors\n- Added option to reduce buffering\n- Added secondary subtitle editor\n- Added more custom fonts for TV\n- Fixed subtitle delay\n- Fixed disappearing Upcoming section\n- Fixed AniList login on TV\n- Fixed manga section order\n- Fixed notification and backup systems\n\nImportant note: The recent downtime was due to exceeding server limits. Paid servers are urgently needed to ensure stability. Please avoid using adblockers to help support the app. Donations are highly appreciated!"
 }
