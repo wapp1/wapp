@@ -2,5 +2,5 @@
   "version_code": 27,
   "version_name": "1.8.0",
   "url": "https://github.com/wapp1/wapp/releases/download/v1.8.0/app-release.apk",
-  "changelog": "Quick Update\n\nNew:Clear Cache Before Update\n- Added double-tap to zoom in manga reader\n- Fixed subtitles displaying in the middle of the screen\n- Fixed bug when sending corrections\n- Fixed English 1 audio unavailable error\n- Fixed Spanish 1 server error\n- Fixed TV dialog focus issues\n- Other minor bug fixes"
+  "changelog": "Quick Update\n\nIMPORTANT:Clear Cache Before Update\n- Added double-tap to zoom in manga reader\n- Fixed subtitles displaying in the middle of the screen\n- Fixed bug when sending corrections\n- Fixed English 1 audio unavailable error\n- Fixed Spanish 1 server error\n- Fixed TV dialog focus issues\n- Other minor bug fixes"
 }
